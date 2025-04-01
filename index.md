@@ -5,4 +5,10 @@
 ##### The fifth 
 ###### The sixth heading 
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Image of Fool Tarot by Pamela Colman Smith](https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/RWS_Tarot_00_Fool.jpg/800px-RWS_Tarot_00_Fool.jpg)
+
+```python
+print("Hello, world!")
+for i in range(10):
+    print(i)
+```
