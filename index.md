@@ -1,5 +1,5 @@
-# This is a title <h1> heading
-## This is the second 
+# This is a title heading
+## This is the second heading
 ### The third
 #### The fourth
 ##### The fifth 
